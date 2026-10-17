@@ -1,0 +1,33 @@
+{
+  "name": "jimatmy-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Backend tooling for the JimatMY grocery price comparison project",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "node --test test/avatar_service.test.js test/best_places.test.js test/geocoding_service.test.js test/geocoding_match.test.js test/grocery_filter.test.js test/item_filter.test.js test/password_reset.test.js test/places_service.test.js test/premise_coordinate_cache.test.js test/premise_nearby.test.js",
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "verify:planner": "node src/scripts/verify_planner_api.js",
+    "verify:premises": "node src/scripts/verify_premises_api.js",
+    "verify:auth": "node src/scripts/verify_auth_api.js",
+    "test:geocoding": "node --test test/geocoding_service.test.js test/geocoding_match.test.js",
+    "test:item-filter": "node --test test/grocery_filter.test.js test/item_filter.test.js",
+    "verify:user-features": "node src/scripts/verify_user_features.js",
+    "verify:item-filter": "node src/scripts/verify_item_filter.js",
+    "import:pricecatcher": "node src/scripts/import_pricecatcher.js",
+    "enrich:premises": "node src/scripts/enrich_premise_coordinates.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "express-rate-limit": "^7.5.1",
+    "jsonwebtoken": "^9.0.3",
+    "multer": "^2.3.0",
+    "nodemailer": "^6.10.1",
+    "pg": "^8.16.3"
+  }
+}

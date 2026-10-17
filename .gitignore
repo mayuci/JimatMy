@@ -1,0 +1,76 @@
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Flutter
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/pubspec.lock
+**/coverage/
+**/android/.gradle/
+**/android/local.properties
+**/secrets.properties
+**/key.properties
+*.jks
+*.keystore
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Pods/
+**/ios/.symlinks/
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+coverage/
+
+# PostgreSQL local files
+postgres-data/
+pgdata/
+*.dump
+*.backup
+*.sql.gz
+*.sql.zip
+
+# PriceCatcher raw datasets
+data/raw/*
+!data/raw/.gitkeep
+database/imports/raw/*
+!database/imports/raw/.gitkeep
+
+# Logs
+logs/
+*.log
+
+# User-uploaded avatars
+backend/uploads/avatars/*
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+frontend/android/local.properties

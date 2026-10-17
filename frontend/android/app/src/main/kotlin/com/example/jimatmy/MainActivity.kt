@@ -1,0 +1,29 @@
+package com.example.jimatmy
+
+import android.content.pm.PackageManager
+import io.flutter.embedding.android.FlutterActivity
+import io.flutter.embedding.engine.FlutterEngine
+import io.flutter.plugin.common.MethodChannel
+
+class MainActivity : FlutterActivity() {
+    override fun configureFlutterEngine(flutterEngine: FlutterEngine) {
+        super.configureFlutterEngine(flutterEngine)
+        MethodChannel(
+            flutterEngine.dartExecutor.binaryMessenger,
+            "jimatmy/maps_config",
+        ).setMethodCallHandler { call, result ->
+            if (call.method != "isConfigured") {
+                result.notImplemented()
+                return@setMethodCallHandler
+            }
+            val applicationInfo = packageManager.getApplicationInfo(
+                packageName,
+                PackageManager.GET_META_DATA,
+            )
+            val apiKey = applicationInfo.metaData
+                ?.getString("com.google.android.geo.API_KEY")
+                .orEmpty()
+            result.success(apiKey.isNotBlank())
+        }
+    }
+}

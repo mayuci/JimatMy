@@ -1,0 +1,335 @@
+{
+  "@@locale": "en",
+  "appTagline": "Compare prices. Save every day.",
+  "splashConnecting": "Connecting to PriceCatcher dataâ€¦",
+  "splashErrorTitle": "We could not connect",
+  "splashErrorMessage": "Price data is temporarily unavailable. Check your connection and try again.",
+  "retry": "Retry",
+  "navHome": "Home",
+  "navSearch": "Search",
+  "navPlanner": "Planner",
+  "navNearby": "Nearby",
+  "navProfile": "Profile",
+  "settingsTitle": "Settings",
+  "settingsLocationSection": "Location",
+  "settingsSelectedArea": "Selected area",
+  "settingsUseDeviceLocation": "Use device location",
+  "settingsPermissionActive": "Location permission is active for this session.",
+  "settingsPermissionRequested": "Requested only when you choose to enable it.",
+  "settingsLocationEnabled": "Location enabled.",
+  "settingsLocationFailed": "Location could not be enabled. You can choose an area manually.",
+  "settingsAppInfoSection": "App information",
+  "settingsVersion": "Version 1.0.0",
+  "settingsLanguageSection": "Language",
+  "settingsLanguageSubtitle": "Choose the language shown in the app.",
+  "languageEnglish": "English",
+  "languageMalay": "Bahasa Melayu",
+  "languageChinese": "ä¸­æ–‡",
+  "priceUnavailable": "Price unavailable",
+  "unavailable": "Unavailable",
+  "noCurrentPremise": "No current premise",
+  "priceComparison": "Price Comparison",
+  "priceTrend": "Price Trend",
+  "itemDetailTitle": "Item details",
+  "detailsUnavailable": "Details unavailable",
+  "itemLoadFailed": "The item could not be loaded.",
+  "dailyPrice": "Daily price",
+  "summaryLowest": "Lowest",
+  "summaryPremises": "Premises",
+  "summaryAverage": "Average",
+  "latestPrices": "Latest prices",
+  "latestPricesSubtitle": "Most recent imported price at each premise",
+  "noPricesYet": "No prices yet",
+  "noPricesMessage": "No imported premise prices are available for this item.",
+  "addToFavourites": "Add to favourites",
+  "removeFromFavourites": "Remove from favourites",
+  "notNow": "Not now",
+  "login": "Log in",
+  "cancel": "Cancel",
+  "homeSearchHint": "Search chicken, rice, milk...",
+  "homeSearchSemantics": "Open grocery search",
+  "homeSearchNoResults": "No matching items",
+  "homeChooseLocation": "Choose your location",
+  "homeSelectLocation": "Select location",
+  "homeLowestPricesTitle": "Lowest Prices Today",
+  "homePopularCategories": "Popular Categories",
+  "homeWeeklyBasketTitle": "Start with a weekly basket",
+  "homeWeeklyBasketSubtitle": "Real PriceCatcher estimates for students, couples and families.",
+  "homeNoPrices": "Current featured prices are unavailable.",
+  "homeBasketIntro": "A one-week basket for {household}. Quantities remain editable.",
+  "@homeBasketIntro": {
+    "placeholders": {
+      "household": { "type": "String" }
+    }
+  },
+  "homeCreateBasket": "Create basket Â· RM {total}",
+  "@homeCreateBasket": {
+    "placeholders": {
+      "total": { "type": "String" }
+    }
+  },
+  "homeBasketCreateFailed": "Basket could not be created.",
+  "homeInsightTitle": "JimatMY Insight",
+  "homeInsightStable": "remained stable",
+  "homeInsightDecreased": "decreased {percent}%",
+  "@homeInsightDecreased": {
+    "placeholders": {
+      "percent": { "type": "String" }
+    }
+  },
+  "homeInsightIncreased": "increased {percent}%",
+  "@homeInsightIncreased": {
+    "placeholders": {
+      "percent": { "type": "String" }
+    }
+  },
+  "homeCategoryFreshFood": "Fresh Food",
+  "homeCategoryVegetables": "Vegetables",
+  "homeCategoryFruits": "Fruits",
+  "homeCategoryEggs": "Eggs",
+  "homeCategoryDrinks": "Drinks",
+  "homeCategoryDryGoods": "Dry Goods",
+  "homeCategoryBaby": "Baby Products",
+  "homeCategoryHousehold": "Household",
+  "homeQuickCompare": "Price Comparison",
+  "homeQuickPlanner": "Shopping Planner",
+  "homeQuickTrends": "Price Trends",
+  "homeInsightSentence": "{itemName} prices {direction}.",
+  "@homeInsightSentence": {
+    "placeholders": {
+      "itemName": { "type": "String" },
+      "direction": { "type": "String" }
+    }
+  },
+  "homeQuickNearby": "Nearby Stores",
+  "email": "Email",
+  "password": "Password",
+  "name": "Name",
+  "confirmPassword": "Confirm password",
+  "invalidEmail": "Enter a valid email address.",
+  "enterPassword": "Enter your password.",
+  "showPassword": "Show password",
+  "hidePassword": "Hide password",
+  "createAccount": "Create an account",
+  "createAccountShort": "Create account",
+  "passwordRequirementLength": "At least 10 characters",
+  "passwordRequirementUpper": "An uppercase letter (A-Z)",
+  "passwordRequirementLower": "A lowercase letter (a-z)",
+  "passwordRequirementNumber": "A number (0-9)",
+  "passwordStrong": "Strong password",
+  "loginWelcome": "Welcome back",
+  "loginSubtitle": "Log in to continue planning smarter grocery trips.",
+  "registerTitle": "Create your JimatMY account",
+  "registerSubtitle": "Save favourites, shopping lists, and your monthly budget.",
+  "passwordHelper": "10+ characters with uppercase, lowercase, and a number.",
+  "enterName": "Enter at least 2 characters.",
+  "weakPassword": "Use a stronger password.",
+  "passwordsMismatch": "Passwords do not match.",
+  "backToLogin": "Back to Log in",
+  "priceComparisonTitle": "Price comparison",
+  "state": "State",
+  "pricesUnavailable": "Prices unavailable",
+  "noPricesFound": "No prices found",
+  "noPricesMatchFilters": "No current premise prices match these filters.",
+  "resetFilters": "Reset filters",
+  "premisePricesCount": "{count} premise prices",
+  "@premisePricesCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "allStates": "All states",
+  "allDistricts": "All districts",
+  "district": "District",
+  "addToPlanner": "Add to Planner",
+  "loginToUsePlanner": "Log in to use Planner",
+  "plannerSaveNote": "Save this item to a shopping list after logging in.",
+  "createListFirst": "Create a shopping list first",
+  "plannerNeedsList": "Planner needs a shopping list before this item can be added.",
+  "openPlanner": "Open Planner",
+  "chooseShoppingList": "Choose a shopping list",
+  "addedToShoppingList": "Added to your shopping list",
+  "priceTrendTitle": "Price trend",
+  "trendUnavailable": "Trend unavailable",
+  "noTrendData": "No trend data",
+  "noTrendMessage": "No daily prices are available for this period.",
+  "moreHistoryTitle": "More history needed",
+  "moreHistoryMessage": "At least two daily prices are needed to show a trend.",
+  "searchTitle": "Search items",
+  "browseItems": "Browse items",
+  "results": "Results",
+  "itemCount": "{count, plural, =1{1 item} other{{count} items}}",
+  "@itemCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "clearSearch": "Clear search",
+  "filterItems": "Filter items",
+  "pricesAvailable": "Prices available",
+  "itemsUnavailable": "Items unavailable",
+  "noGroceries": "No groceries available",
+  "noMatchingGroceries": "No matching groceries",
+  "searchEmptyMessage": "Try another search or reset your filters.",
+  "loadMore": "Load more",
+  "category": "Category",
+  "locationFiltersUnavailable": "Location filters are temporarily unavailable.",
+  "hasAvailablePricesTitle": "Has available prices",
+  "hasAvailablePricesSubtitle": "Only show items priced by a premise",
+  "applyFilters": "Apply filters",
+  "openShoppingList": "Open {name}",
+  "@openShoppingList": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "searchAll": "All",
+  "searchChicken": "Chicken",
+  "searchMeat": "Meat",
+  "searchEggs": "Eggs",
+  "searchVegetables": "Vegetables",
+  "searchFruits": "Fruits",
+  "searchDrinks": "Drinks",
+  "searchDryGoods": "Dry Goods",
+  "searchBaby": "Baby",
+  "searchHousehold": "Household",
+  "plannerTitle": "Shopping planner",
+  "createShoppingList": "Create shopping list",
+  "listName": "List name",
+  "createListShort": "Create list",
+  "create": "Create",
+  "rename": "Rename",
+  "delete": "Delete",
+  "save": "Save",
+  "weeklyBasketSubtitle": "{household} â€¢ weekly basket",
+  "@weeklyBasketSubtitle": {
+    "placeholders": {
+      "household": { "type": "String" }
+    }
+  },
+  "createListWithTotal": "Create list â€¢ RM {total}",
+  "@createListWithTotal": {
+    "placeholders": {
+      "total": { "type": "String" }
+    }
+  },
+  "basketCreateFailed": "The basket could not be created.",
+  "setMonthlyBudget": "Set monthly budget",
+  "editMonthlyBudget": "Edit monthly budget",
+  "budgetAmountLabel": "Amount (RM)",
+  "enterPositiveAmount": "Enter a positive RM amount.",
+  "enterListName": "Enter a list name.",
+  "renameShoppingList": "Rename shopping list",
+  "deleteShoppingListQuestion": "Delete shopping list?",
+  "deleteListConfirm": "Delete \"{name}\" and all its items?",
+  "@deleteListConfirm": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "signInToPlan": "Sign in to create shopping lists",
+  "plannerSignInMessage": "Save products, track your grocery budget, and compare your planned shopping trip.",
+  "plannerUnavailable": "Planner unavailable",
+  "startWithBasket": "Start with a basket",
+  "reviewedWeeklyEssentials": "Reviewed weekly essentials with real current estimates.",
+  "yourShoppingLists": "Your shopping lists",
+  "noShoppingListsYet": "No shopping lists yet",
+  "startPlanningMessage": "Start planning groceries and track the estimated total.",
+  "createYourFirstList": "Create your first list",
+  "templateItemsCount": "{count, plural, =1{1 item} other{{count} items}}",
+  "@templateItemsCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "templateUnavailableCount": " â€¢ {count} unavailable",
+  "@templateUnavailableCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "shoppingListTitle": "Shopping list",
+  "myList": "My list",
+  "completed": "Completed",
+  "completedItemsCount": "{count, plural, =1{1 completed} other{{count} completed}}",
+  "@completedItemsCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "renameListDialog": "Rename list",
+  "removeItemQuestion": "Remove item?",
+  "removeItemConfirm": "Remove {name} from this list?",
+  "@removeItemConfirm": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "remove": "Remove",
+  "shoppingListNotFound": "Shopping list not found.",
+  "listDeletedMessage": "It may have been deleted by you or another device.",
+  "backToPlanner": "Back to planner",
+  "couldntLoadList": "Couldn't load this shopping list.",
+  "tryAgain": "Try again",
+  "addItem": "Add item",
+  "yourListIsEmpty": "Your list is empty",
+  "emptyListMessage": "Add items to start planning your trip.",
+  "everythingCompleted": "Everything is completed",
+  "noCompletedYet": "No completed items yet",
+  "completedHint": "Open Completed to review checked items.",
+  "completedEmptyHint": "Items you check off will appear here.",
+  "estimatedTotal": "Estimated total",
+  "noBudgetSet": "No monthly budget set",
+  "overBudget": "RM {amount} over budget",
+  "@overBudget": {
+    "placeholders": {
+      "amount": { "type": "String" }
+    }
+  },
+  "withinBudget": "RM {amount} within budget",
+  "@withinBudget": {
+    "placeholders": {
+      "amount": { "type": "String" }
+    }
+  },
+  "findBestPlaces": "Find best places",
+  "profileGreeting": "Hi, {name}!",
+  "@profileGreeting": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "profileSubtitle": "Compare smarter and save more.",
+  "myProfile": "My Profile",
+  "budgetPlanner": "Budget Planner",
+  "myFavourites": "My Favourites",
+  "recentViews": "Recent views",
+  "recentViewsMenu": "Recent Views",
+  "shoppingLists": "Shopping lists",
+  "settings": "Settings",
+  "aboutJimatmy": "About JimatMY",
+  "logout": "Log out",
+  "logoutQuestion": "Log out?",
+  "logoutMessage": "Your saved account data will remain available the next time you log in.",
+  "loggingOut": "Logging out...",
+  "openSettings": "Open settings",
+  "changeProfilePicture": "Change profile picture",
+  "guestTitle": "Save your shopping plans",
+  "guestMessage": "Log in to keep favourites, recent items, shopping lists and your monthly budget together.",
+  "countUnavailable": "Count unavailable. Pull down to retry.",
+  "favourites": "Favourites",
+  "forgotPassword": "Forgot password?",
+  "forgotPasswordTitle": "Forgot password",
+  "forgotPasswordSubtitle": "Enter your registered email to receive a six-digit reset code.",
+  "registeredEmail": "Registered email",
+  "sendResetCode": "Send reset code",
+  "resetPasswordTitle": "Reset password",
+  "resetPasswordSubtitle": "Enter the six-digit code sent to your email and choose a new password.",
+  "resetCode": "Reset code",
+  "newPassword": "New password",
+  "confirmNewPassword": "Confirm new password",
+  "resetPasswordButton": "Reset password",
+  "passwordResetSuccess": "Password reset. Please log in.",
+  "invalidResetCode": "Enter the six-digit code.",
+  "resetCodeGenericError": "That reset code is invalid or has expired."
+}

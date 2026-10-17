@@ -1,0 +1,335 @@
+{
+  "@@locale": "ms",
+  "appTagline": "Bandingkan harga. Jimat setiap hari.",
+  "splashConnecting": "Menyambung ke data PriceCatcherâ€¦",
+  "splashErrorTitle": "Kami tidak dapat menyambung",
+  "splashErrorMessage": "Data harga tidak tersedia buat sementara. Semak sambungan anda dan cuba lagi.",
+  "retry": "Cuba lagi",
+  "navHome": "Utama",
+  "navSearch": "Carian",
+  "navPlanner": "Pelan",
+  "navNearby": "Berdekatan",
+  "navProfile": "Profil",
+  "settingsTitle": "Tetapan",
+  "settingsLocationSection": "Lokasi",
+  "settingsSelectedArea": "Kawasan dipilih",
+  "settingsUseDeviceLocation": "Gunakan lokasi peranti",
+  "settingsPermissionActive": "Kebenaran lokasi aktif untuk sesi ini.",
+  "settingsPermissionRequested": "Diminta hanya apabila anda memilih untuk mengaktifkannya.",
+  "settingsLocationEnabled": "Lokasi diaktifkan.",
+  "settingsLocationFailed": "Lokasi tidak dapat diaktifkan. Anda boleh memilih kawasan secara manual.",
+  "settingsAppInfoSection": "Maklumat aplikasi",
+  "settingsVersion": "Versi 1.0.0",
+  "settingsLanguageSection": "Bahasa",
+  "settingsLanguageSubtitle": "Pilih bahasa yang dipaparkan dalam aplikasi.",
+  "languageEnglish": "English",
+  "languageMalay": "Bahasa Melayu",
+  "languageChinese": "ä¸­æ–‡",
+  "priceUnavailable": "Harga tidak tersedia",
+  "unavailable": "Tidak tersedia",
+  "noCurrentPremise": "Tiada premis semasa",
+  "priceComparison": "Perbandingan Harga",
+  "priceTrend": "Trend Harga",
+  "itemDetailTitle": "Butiran Item",
+  "detailsUnavailable": "Butiran tidak tersedia",
+  "itemLoadFailed": "Item tidak dapat dimuatkan.",
+  "dailyPrice": "Harga harian",
+  "summaryLowest": "Terendah",
+  "summaryPremises": "Premis",
+  "summaryAverage": "Purata",
+  "latestPrices": "Harga terkini",
+  "latestPricesSubtitle": "Harga import terkini di setiap premis",
+  "noPricesYet": "Tiada harga lagi",
+  "noPricesMessage": "Tiada harga premis diimport untuk item ini.",
+  "addToFavourites": "Tambah ke kegemaran",
+  "removeFromFavourites": "Buang dari kegemaran",
+  "notNow": "Tidak sekarang",
+  "login": "Log masuk",
+  "cancel": "Batal",
+  "homeSearchHint": "Cari ayam, beras, susu...",
+  "homeSearchSemantics": "Buka carian barangan runcit",
+  "homeSearchNoResults": "Tiada item sepadan",
+  "homeChooseLocation": "Pilih lokasi anda",
+  "homeSelectLocation": "Pilih lokasi",
+  "homeLowestPricesTitle": "Harga Terendah Hari Ini",
+  "homePopularCategories": "Kategori Popular",
+  "homeWeeklyBasketTitle": "Mulakan dengan bakul mingguan",
+  "homeWeeklyBasketSubtitle": "Anggaran PriceCatcher sebenar untuk pelajar, pasangan dan keluarga.",
+  "homeNoPrices": "Harga pilihan semasa tidak tersedia.",
+  "homeBasketIntro": "Bakul seminggu untuk {household}. Kuantiti masih boleh disunting.",
+  "@homeBasketIntro": {
+    "placeholders": {
+      "household": { "type": "String" }
+    }
+  },
+  "homeCreateBasket": "Cipta bakul Â· RM {total}",
+  "@homeCreateBasket": {
+    "placeholders": {
+      "total": { "type": "String" }
+    }
+  },
+  "homeBasketCreateFailed": "Bakul tidak dapat dicipta.",
+  "homeInsightTitle": "Wawasan JimatMY",
+  "homeInsightStable": "kekal stabil",
+  "homeInsightDecreased": "menurun {percent}%",
+  "@homeInsightDecreased": {
+    "placeholders": {
+      "percent": { "type": "String" }
+    }
+  },
+  "homeInsightIncreased": "meningkat {percent}%",
+  "@homeInsightIncreased": {
+    "placeholders": {
+      "percent": { "type": "String" }
+    }
+  },
+  "homeCategoryFreshFood": "Makanan Segar",
+  "homeCategoryVegetables": "Sayur-sayuran",
+  "homeCategoryFruits": "Buah-buahan",
+  "homeCategoryEggs": "Telur",
+  "homeCategoryDrinks": "Minuman",
+  "homeCategoryDryGoods": "Barangan Kering",
+  "homeCategoryBaby": "Produk Bayi",
+  "homeCategoryHousehold": "Rumah Tangga",
+  "homeQuickCompare": "Perbandingan Harga",
+  "homeQuickPlanner": "Pelan Membeli-belah",
+  "homeQuickTrends": "Trend Harga",
+  "homeInsightSentence": "Harga {itemName} {direction}.",
+  "@homeInsightSentence": {
+    "placeholders": {
+      "itemName": { "type": "String" },
+      "direction": { "type": "String" }
+    }
+  },
+  "homeQuickNearby": "Kedai Berdekatan",
+  "email": "E-mel",
+  "password": "Kata laluan",
+  "name": "Nama",
+  "confirmPassword": "Sahkan kata laluan",
+  "invalidEmail": "Masukkan alamat e-mel yang sah.",
+  "enterPassword": "Masukkan kata laluan anda.",
+  "showPassword": "Tunjuk kata laluan",
+  "hidePassword": "Sembunyi kata laluan",
+  "createAccount": "Buat akaun",
+  "createAccountShort": "Buat akaun",
+  "passwordRequirementLength": "Sekurang-kurangnya 10 aksara",
+  "passwordRequirementUpper": "Satu huruf besar (A-Z)",
+  "passwordRequirementLower": "Satu huruf kecil (a-z)",
+  "passwordRequirementNumber": "Satu nombor (0-9)",
+  "passwordStrong": "Kata laluan kukuh",
+  "loginWelcome": "Selamat kembali",
+  "loginSubtitle": "Log masuk untuk terus merancang perjalanan membeli-belah dengan lebih bijak.",
+  "registerTitle": "Cipta akaun JimatMY anda",
+  "registerSubtitle": "Simpan kegemaran, senarai beli-belah, dan bajet bulanan anda.",
+  "passwordHelper": "10+ aksara dengan huruf besar, huruf kecil, dan nombor.",
+  "enterName": "Masukkan sekurang-kurangnya 2 aksara.",
+  "weakPassword": "Gunakan kata laluan yang lebih kukuh.",
+  "passwordsMismatch": "Kata laluan tidak sepadan.",
+  "backToLogin": "Kembali ke Log masuk",
+  "priceComparisonTitle": "Perbandingan harga",
+  "state": "Negeri",
+  "pricesUnavailable": "Harga tidak tersedia",
+  "noPricesFound": "Tiada harga ditemui",
+  "noPricesMatchFilters": "Tiada harga premis semasa yang sepadan dengan penapis ini.",
+  "resetFilters": "Set semula penapis",
+  "premisePricesCount": "{count} harga premis",
+  "@premisePricesCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "allStates": "Semua negeri",
+  "allDistricts": "Semua daerah",
+  "district": "Daerah",
+  "addToPlanner": "Tambah ke Pelan",
+  "loginToUsePlanner": "Log masuk untuk menggunakan Pelan",
+  "plannerSaveNote": "Simpan item ini ke senarai beli-belah selepas log masuk.",
+  "createListFirst": "Cipta senarai beli-belah dahulu",
+  "plannerNeedsList": "Pelan memerlukan senarai beli-belah sebelum item ini boleh ditambah.",
+  "openPlanner": "Buka Pelan",
+  "chooseShoppingList": "Pilih senarai beli-belah",
+  "addedToShoppingList": "Ditambah ke senarai beli-belah anda",
+  "priceTrendTitle": "Trend harga",
+  "trendUnavailable": "Trend tidak tersedia",
+  "noTrendData": "Tiada data trend",
+  "noTrendMessage": "Tiada harga harian untuk tempoh ini.",
+  "moreHistoryTitle": "Perlu lebih banyak sejarah",
+  "moreHistoryMessage": "Sekurang-kurangnya dua harga harian diperlukan untuk menunjukkan trend.",
+  "searchTitle": "Cari item",
+  "browseItems": "Semak imbas item",
+  "results": "Keputusan",
+  "itemCount": "{count, plural, =1{1 item} other{{count} item}}",
+  "@itemCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "clearSearch": "Kosongkan carian",
+  "filterItems": "Tapis item",
+  "pricesAvailable": "Harga tersedia",
+  "itemsUnavailable": "Item tidak tersedia",
+  "noGroceries": "Tiada barangan runcit tersedia",
+  "noMatchingGroceries": "Tiada barangan runcit sepadan",
+  "searchEmptyMessage": "Cuba carian lain atau set semula penapis anda.",
+  "loadMore": "Muat lagi",
+  "category": "Kategori",
+  "locationFiltersUnavailable": "Penapis lokasi tidak tersedia buat sementara.",
+  "hasAvailablePricesTitle": "Mempunyai harga tersedia",
+  "hasAvailablePricesSubtitle": "Hanya tunjukkan item yang dihargai oleh premis",
+  "applyFilters": "Guna penapis",
+  "openShoppingList": "Buka {name}",
+  "@openShoppingList": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "searchAll": "Semua",
+  "searchChicken": "Ayam",
+  "searchMeat": "Daging",
+  "searchEggs": "Telur",
+  "searchVegetables": "Sayur-sayuran",
+  "searchFruits": "Buah-buahan",
+  "searchDrinks": "Minuman",
+  "searchDryGoods": "Barangan Kering",
+  "searchBaby": "Bayi",
+  "searchHousehold": "Rumah Tangga",
+  "plannerTitle": "Pelan Membeli-belah",
+  "createShoppingList": "Cipta senarai beli-belah",
+  "listName": "Nama senarai",
+  "createListShort": "Cipta senarai",
+  "create": "Cipta",
+  "rename": "Nama semula",
+  "delete": "Padam",
+  "save": "Simpan",
+  "weeklyBasketSubtitle": "{household} â€¢ bakul mingguan",
+  "@weeklyBasketSubtitle": {
+    "placeholders": {
+      "household": { "type": "String" }
+    }
+  },
+  "createListWithTotal": "Cipta senarai â€¢ RM {total}",
+  "@createListWithTotal": {
+    "placeholders": {
+      "total": { "type": "String" }
+    }
+  },
+  "basketCreateFailed": "Bakul tidak dapat dicipta.",
+  "setMonthlyBudget": "Tetapkan bajet bulanan",
+  "editMonthlyBudget": "Sunting bajet bulanan",
+  "budgetAmountLabel": "Jumlah (RM)",
+  "enterPositiveAmount": "Masukkan jumlah RM yang positif.",
+  "enterListName": "Masukkan nama senarai.",
+  "renameShoppingList": "Nama semula senarai beli-belah",
+  "deleteShoppingListQuestion": "Padam senarai beli-belah?",
+  "deleteListConfirm": "Padam \"{name}\" dan semua itemnya?",
+  "@deleteListConfirm": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "signInToPlan": "Log masuk untuk mencipta senarai beli-belah",
+  "plannerSignInMessage": "Simpan produk, jejak bajet barangan runcit, dan bandingkan perjalanan membeli-belah yang dirancang.",
+  "plannerUnavailable": "Pelan tidak tersedia",
+  "startWithBasket": "Mulakan dengan bakul",
+  "reviewedWeeklyEssentials": "Keperluan mingguan yang disemak dengan anggaran semasa sebenar.",
+  "yourShoppingLists": "Senarai beli-belah anda",
+  "noShoppingListsYet": "Tiada senarai beli-belah lagi",
+  "startPlanningMessage": "Mula merancang barangan runcit dan jejak jumlah anggaran.",
+  "createYourFirstList": "Cipta senarai pertama anda",
+  "templateItemsCount": "{count, plural, =1{1 item} other{{count} item}}",
+  "@templateItemsCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "templateUnavailableCount": " â€¢ {count} tidak tersedia",
+  "@templateUnavailableCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "shoppingListTitle": "Senarai beli-belah",
+  "myList": "Senarai saya",
+  "completed": "Selesai",
+  "completedItemsCount": "{count, plural, =1{1 selesai} other{{count} selesai}}",
+  "@completedItemsCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "renameListDialog": "Nama semula senarai",
+  "removeItemQuestion": "Buang item?",
+  "removeItemConfirm": "Buang {name} daripada senarai ini?",
+  "@removeItemConfirm": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "remove": "Buang",
+  "shoppingListNotFound": "Senarai beli-belah tidak ditemui.",
+  "listDeletedMessage": "Ia mungkin telah dipadam oleh anda atau peranti lain.",
+  "backToPlanner": "Kembali ke pelan",
+  "couldntLoadList": "Tidak dapat memuatkan senarai beli-belah ini.",
+  "tryAgain": "Cuba lagi",
+  "addItem": "Tambah item",
+  "yourListIsEmpty": "Senarai anda kosong",
+  "emptyListMessage": "Tambah item untuk mula merancang perjalanan anda.",
+  "everythingCompleted": "Semuanya selesai",
+  "noCompletedYet": "Tiada item selesai lagi",
+  "completedHint": "Buka Selesai untuk menyemak item yang ditandakan.",
+  "completedEmptyHint": "Item yang anda tandakan akan muncul di sini.",
+  "estimatedTotal": "Jumlah anggaran",
+  "noBudgetSet": "Tiada bajet bulanan ditetapkan",
+  "overBudget": "RM {amount} melebihi bajet",
+  "@overBudget": {
+    "placeholders": {
+      "amount": { "type": "String" }
+    }
+  },
+  "withinBudget": "RM {amount} dalam bajet",
+  "@withinBudget": {
+    "placeholders": {
+      "amount": { "type": "String" }
+    }
+  },
+  "findBestPlaces": "Cari kedai terbaik",
+  "profileGreeting": "Hai, {name}!",
+  "@profileGreeting": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "profileSubtitle": "Bandingkan dengan lebih bijak dan jimat lebih.",
+  "myProfile": "Profil Saya",
+  "budgetPlanner": "Pelan Bajet",
+  "myFavourites": "Kegemaran Saya",
+  "recentViews": "Lihat Terkini",
+  "recentViewsMenu": "Lihat Terkini",
+  "shoppingLists": "Senarai beli-belah",
+  "settings": "Tetapan",
+  "aboutJimatmy": "Tentang JimatMY",
+  "logout": "Log keluar",
+  "logoutQuestion": "Log keluar?",
+  "logoutMessage": "Data akaun yang disimpan akan kekal tersedia pada log masuk seterusnya.",
+  "loggingOut": "Sedang log keluar...",
+  "openSettings": "Buka tetapan",
+  "changeProfilePicture": "Tukar gambar profil",
+  "guestTitle": "Simpan rancangan membeli-belah anda",
+  "guestMessage": "Log masuk untuk menyimpan kegemaran, item terkini, senarai beli-belah dan bajet bulanan anda bersama.",
+  "countUnavailable": "Kiraan tidak tersedia. Tarik ke bawah untuk cuba lagi.",
+  "favourites": "Kegemaran",
+  "forgotPassword": "Terlupa kata laluan?",
+  "forgotPasswordTitle": "Lupa kata laluan",
+  "forgotPasswordSubtitle": "Masukkan e-mel berdaftar anda untuk menerima kod set semula enam digit.",
+  "registeredEmail": "E-mel berdaftar",
+  "sendResetCode": "Hantar kod set semula",
+  "resetPasswordTitle": "Tetapkan semula kata laluan",
+  "resetPasswordSubtitle": "Masukkan kod enam digit yang dihantar ke e-mel anda dan pilih kata laluan baharu.",
+  "resetCode": "Kod set semula",
+  "newPassword": "Kata laluan baharu",
+  "confirmNewPassword": "Sahkan kata laluan baharu",
+  "resetPasswordButton": "Tetapkan semula kata laluan",
+  "passwordResetSuccess": "Kata laluan telah ditetapkan semula. Sila log masuk.",
+  "invalidResetCode": "Masukkan kod enam digit.",
+  "resetCodeGenericError": "Kod set semula ini tidak sah atau telah tamat tempoh."
+}

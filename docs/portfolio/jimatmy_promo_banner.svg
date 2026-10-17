@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D5B3D"/>
+      <stop offset="1" stop-color="#167D55"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background gradient -->
+  <rect width="1200" height="628" fill="url(#bg)"/>
+
+  <!-- Soft decorative circles -->
+  <circle cx="1115" cy="125" r="215" fill="#E5F5EA" opacity="0.12"/>
+  <circle cx="80" cy="620" r="150" fill="#FFFFFF" opacity="0.08"/>
+  <circle cx="180" cy="-10" r="120" fill="#E5F5EA" opacity="0.10"/>
+
+  <!-- Official-data pill -->
+  <rect x="80" y="108" width="300" height="54" rx="27" fill="#FFFCF4"/>
+  <text x="230" y="141" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#0D5B3D">Compare prices daily</text>
+
+  <!-- Headline -->
+  <text x="84" y="258" font-family="Segoe UI, Arial, sans-serif" font-size="112" font-weight="700" fill="#FFFFFF">JimatMY</text>
+  <text x="84" y="352" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="#F4C95D">Save every day. Shop smarter.</text>
+  <text x="84" y="418" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#E5F5EA">Real Malaysian grocery prices from</text>
+  <text x="84" y="450" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#E5F5EA">PriceCatcher open data.</text>
+
+  <!-- CTA pill -->
+  <rect x="80" y="500" width="280" height="62" rx="31" fill="#F4C95D"/>
+  <text x="220" y="541" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#0D5B3D">Start comparing &gt;</text>
+
+  <!-- Feature card -->
+  <rect x="800" y="150" width="320" height="360" rx="32" fill="#FFFFFF"/>
+  <circle cx="960" cy="258" r="60" fill="#E5F5EA"/>
+  <text x="960" y="240" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#167D55">RM</text>
+  <polygon points="960,330 922,278 998,278" fill="#167D55"/>
+  <text x="960" y="388" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" fill="#16342A">Lowest prices at a glance</text>
+  <text x="960" y="420" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#6B7F74">Nearest premises, one compare</text>
+  <rect x="800" y="524" width="320" height="8" rx="4" fill="#F4C95D"/>
+</svg>

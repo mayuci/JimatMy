@@ -1,0 +1,335 @@
+{
+  "@@locale": "zh",
+  "appTagline": "æ¯”è¾ƒä»·æ ¼ï¼Œå¤©å¤©çœé’±ã€‚",
+  "splashConnecting": "æ­£åœ¨è¿žæŽ¥ PriceCatcher æ•°æ®â€¦",
+  "splashErrorTitle": "æ— æ³•è¿žæŽ¥",
+  "splashErrorMessage": "ä»·æ ¼æ•°æ®æš‚æ—¶ä¸å¯ç”¨ã€‚è¯·æ£€æŸ¥ç½‘ç»œè¿žæŽ¥åŽé‡è¯•ã€‚",
+  "retry": "é‡è¯•",
+  "navHome": "é¦–é¡µ",
+  "navSearch": "æœç´¢",
+  "navPlanner": "æ¸…å•",
+  "navNearby": "é™„è¿‘",
+  "navProfile": "æˆ‘çš„",
+  "settingsTitle": "è®¾ç½®",
+  "settingsLocationSection": "ä½ç½®",
+  "settingsSelectedArea": "å·²é€‰åœ°åŒº",
+  "settingsUseDeviceLocation": "ä½¿ç”¨è®¾å¤‡å®šä½",
+  "settingsPermissionActive": "å®šä½æƒé™å·²åœ¨æœ¬ä¼šè¯ä¸­å¯ç”¨ã€‚",
+  "settingsPermissionRequested": "ä»…åœ¨æ‚¨é€‰æ‹©å¯ç”¨æ—¶è¯·æ±‚ã€‚",
+  "settingsLocationEnabled": "å·²å¯ç”¨å®šä½ã€‚",
+  "settingsLocationFailed": "æ— æ³•å¯ç”¨å®šä½ã€‚æ‚¨å¯ä»¥æ‰‹åŠ¨é€‰æ‹©åœ°åŒºã€‚",
+  "settingsAppInfoSection": "åº”ç”¨ä¿¡æ¯",
+  "settingsVersion": "ç‰ˆæœ¬ 1.0.0",
+  "settingsLanguageSection": "è¯­è¨€",
+  "settingsLanguageSubtitle": "é€‰æ‹©åº”ç”¨ä¸­æ˜¾ç¤ºçš„è¯­è¨€ã€‚",
+  "languageEnglish": "English",
+  "languageMalay": "Bahasa Melayu",
+  "languageChinese": "ä¸­æ–‡",
+  "priceUnavailable": "ä»·æ ¼ä¸å¯ç”¨",
+  "unavailable": "ä¸å¯ç”¨",
+  "noCurrentPremise": "å½“å‰æ— é—¨åº—",
+  "priceComparison": "ä»·æ ¼å¯¹æ¯”",
+  "priceTrend": "ä»·æ ¼è¶‹åŠ¿",
+  "itemDetailTitle": "å•†å“è¯¦æƒ…",
+  "detailsUnavailable": "è¯¦æƒ…ä¸å¯ç”¨",
+  "itemLoadFailed": "æ— æ³•åŠ è½½è¯¥å•†å“ã€‚",
+  "dailyPrice": "æ¯æ—¥ä»·æ ¼",
+  "summaryLowest": "æœ€ä½Ž",
+  "summaryPremises": "é—¨åº—",
+  "summaryAverage": "å¹³å‡",
+  "latestPrices": "æœ€æ–°ä»·æ ¼",
+  "latestPricesSubtitle": "æ¯ä¸ªé—¨åº—æœ€è¿‘ä¸€æ¬¡å¯¼å…¥çš„ä»·æ ¼",
+  "noPricesYet": "æš‚æ— ä»·æ ¼",
+  "noPricesMessage": "è¯¥å•†å“æš‚æ— å·²å¯¼å…¥çš„é—¨åº—ä»·æ ¼ã€‚",
+  "addToFavourites": "åŠ å…¥æ”¶è—",
+  "removeFromFavourites": "å–æ¶ˆæ”¶è—",
+  "notNow": "æš‚ä¸",
+  "login": "ç™»å½•",
+  "cancel": "å–æ¶ˆ",
+  "homeSearchHint": "æœç´¢é¸¡è‚‰ã€å¤§ç±³ã€ç‰›å¥¶â€¦",
+  "homeSearchSemantics": "æ‰“å¼€é£Ÿå“æ‚è´§æœç´¢",
+  "homeSearchNoResults": "æ²¡æœ‰åŒ¹é…çš„å•†å“",
+  "homeChooseLocation": "é€‰æ‹©æ‚¨çš„ä½ç½®",
+  "homeSelectLocation": "é€‰æ‹©ä½ç½®",
+  "homeLowestPricesTitle": "ä»Šæ—¥æœ€ä½Žä»·",
+  "homePopularCategories": "çƒ­é—¨åˆ†ç±»",
+  "homeWeeklyBasketTitle": "ä»Žæ¯å‘¨è´­ç‰©ç¯®å¼€å§‹",
+  "homeWeeklyBasketSubtitle": "é¢å‘å­¦ç”Ÿã€æƒ…ä¾£å’Œå®¶åº­çš„çœŸå®ž PriceCatcher ä¼°ç®—ã€‚",
+  "homeNoPrices": "å½“å‰ç²¾é€‰ä»·æ ¼ä¸å¯ç”¨ã€‚",
+  "homeBasketIntro": "ä¸º {household} å‡†å¤‡çš„æ¯å‘¨è´­ç‰©ç¯®ã€‚æ•°é‡ä»å¯ç¼–è¾‘ã€‚",
+  "@homeBasketIntro": {
+    "placeholders": {
+      "household": { "type": "String" }
+    }
+  },
+  "homeCreateBasket": "åˆ›å»ºè´­ç‰©ç¯® Â· RM {total}",
+  "@homeCreateBasket": {
+    "placeholders": {
+      "total": { "type": "String" }
+    }
+  },
+  "homeBasketCreateFailed": "æ— æ³•åˆ›å»ºè´­ç‰©ç¯®ã€‚",
+  "homeInsightTitle": "JimatMY æ´žå¯Ÿ",
+  "homeInsightStable": "ä¿æŒç¨³å®š",
+  "homeInsightDecreased": "ä¸‹é™ {percent}%",
+  "@homeInsightDecreased": {
+    "placeholders": {
+      "percent": { "type": "String" }
+    }
+  },
+  "homeInsightIncreased": "ä¸Šæ¶¨ {percent}%",
+  "@homeInsightIncreased": {
+    "placeholders": {
+      "percent": { "type": "String" }
+    }
+  },
+  "homeCategoryFreshFood": "æ–°é²œé£Ÿå“",
+  "homeCategoryVegetables": "è”¬èœ",
+  "homeCategoryFruits": "æ°´æžœ",
+  "homeCategoryEggs": "è›‹ç±»",
+  "homeCategoryDrinks": "é¥®æ–™",
+  "homeCategoryDryGoods": "å¹²è´§",
+  "homeCategoryBaby": "å©´å„¿ç”¨å“",
+  "homeCategoryHousehold": "å®¶å±…ç”¨å“",
+  "homeQuickCompare": "ä»·æ ¼å¯¹æ¯”",
+  "homeQuickPlanner": "è´­ç‰©è§„åˆ’",
+  "homeQuickTrends": "ä»·æ ¼è¶‹åŠ¿",
+  "homeInsightSentence": "{itemName}ä»·æ ¼{direction}ã€‚",
+  "@homeInsightSentence": {
+    "placeholders": {
+      "itemName": { "type": "String" },
+      "direction": { "type": "String" }
+    }
+  },
+  "homeQuickNearby": "é™„è¿‘å•†åº—",
+  "email": "é‚®ç®±",
+  "password": "å¯†ç ",
+  "name": "å§“å",
+  "confirmPassword": "ç¡®è®¤å¯†ç ",
+  "invalidEmail": "è¯·è¾“å…¥æœ‰æ•ˆçš„é‚®ç®±åœ°å€ã€‚",
+  "enterPassword": "è¯·è¾“å…¥å¯†ç ã€‚",
+  "showPassword": "æ˜¾ç¤ºå¯†ç ",
+  "hidePassword": "éšè—å¯†ç ",
+  "createAccount": "åˆ›å»ºè´¦æˆ·",
+  "createAccountShort": "åˆ›å»ºè´¦æˆ·",
+  "passwordRequirementLength": "è‡³å°‘ 10 ä¸ªå­—ç¬¦",
+  "passwordRequirementUpper": "ä¸€ä¸ªå¤§å†™å­—æ¯ (A-Z)",
+  "passwordRequirementLower": "ä¸€ä¸ªå°å†™å­—æ¯ (a-z)",
+  "passwordRequirementNumber": "ä¸€ä¸ªæ•°å­— (0-9)",
+  "passwordStrong": "å¯†ç å¼ºåº¦è¶³å¤Ÿ",
+  "loginWelcome": "æ¬¢è¿Žå›žæ¥",
+  "loginSubtitle": "ç™»å½•ä»¥ç»§ç»­æ›´èªæ˜Žåœ°è§„åˆ’è´­ç‰©è¡Œç¨‹ã€‚",
+  "registerTitle": "åˆ›å»ºæ‚¨çš„ JimatMY è´¦æˆ·",
+  "registerSubtitle": "ä¿å­˜æ”¶è—ã€è´­ç‰©æ¸…å•å’Œæ¯æœˆé¢„ç®—ã€‚",
+  "passwordHelper": "10 ä¸ªä»¥ä¸Šå­—ç¬¦ï¼ŒåŒ…å«å¤§å†™ã€å°å†™å­—æ¯å’Œæ•°å­—ã€‚",
+  "enterName": "è¯·è¾“å…¥è‡³å°‘ 2 ä¸ªå­—ç¬¦ã€‚",
+  "weakPassword": "è¯·ä½¿ç”¨å¼ºåº¦æ›´é«˜çš„å¯†ç ã€‚",
+  "passwordsMismatch": "ä¸¤æ¬¡è¾“å…¥çš„å¯†ç ä¸ä¸€è‡´ã€‚",
+  "backToLogin": "è¿”å›žç™»å½•",
+  "priceComparisonTitle": "ä»·æ ¼å¯¹æ¯”",
+  "state": "å·ž",
+  "pricesUnavailable": "ä»·æ ¼ä¸å¯ç”¨",
+  "noPricesFound": "æœªæ‰¾åˆ°ä»·æ ¼",
+  "noPricesMatchFilters": "å½“å‰æ²¡æœ‰é—¨åº—ä»·æ ¼ç¬¦åˆè¿™äº›ç­›é€‰æ¡ä»¶ã€‚",
+  "resetFilters": "é‡ç½®ç­›é€‰",
+  "premisePricesCount": "{count} ä¸ªé—¨åº—ä»·æ ¼",
+  "@premisePricesCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "allStates": "æ‰€æœ‰å·ž",
+  "allDistricts": "æ‰€æœ‰åŽ¿åŒº",
+  "district": "åŽ¿åŒº",
+  "addToPlanner": "æ·»åŠ åˆ°è´­ç‰©æ¸…å•",
+  "loginToUsePlanner": "ç™»å½•ä»¥ä½¿ç”¨è´­ç‰©æ¸…å•",
+  "plannerSaveNote": "ç™»å½•åŽå¯å°†æ­¤å•†å“ä¿å­˜åˆ°è´­ç‰©æ¸…å•ã€‚",
+  "createListFirst": "è¯·å…ˆåˆ›å»ºè´­ç‰©æ¸…å•",
+  "plannerNeedsList": "æ·»åŠ æ­¤å•†å“å‰éœ€è¦å…ˆåˆ›å»ºä¸€ä¸ªè´­ç‰©æ¸…å•ã€‚",
+  "openPlanner": "æ‰“å¼€è´­ç‰©æ¸…å•",
+  "chooseShoppingList": "é€‰æ‹©è´­ç‰©æ¸…å•",
+  "addedToShoppingList": "å·²æ·»åŠ åˆ°æ‚¨çš„è´­ç‰©æ¸…å•",
+  "priceTrendTitle": "ä»·æ ¼è¶‹åŠ¿",
+  "trendUnavailable": "è¶‹åŠ¿ä¸å¯ç”¨",
+  "noTrendData": "æš‚æ— è¶‹åŠ¿æ•°æ®",
+  "noTrendMessage": "è¯¥æ—¶æ®µæš‚æ— æ¯æ—¥ä»·æ ¼ã€‚",
+  "moreHistoryTitle": "éœ€è¦æ›´å¤šåŽ†å²æ•°æ®",
+  "moreHistoryMessage": "è‡³å°‘éœ€è¦ä¸¤ä¸ªæ¯æ—¥ä»·æ ¼æ‰èƒ½æ˜¾ç¤ºè¶‹åŠ¿ã€‚",
+  "searchTitle": "æœç´¢å•†å“",
+  "browseItems": "æµè§ˆå•†å“",
+  "results": "æœç´¢ç»“æžœ",
+  "itemCount": "{count, plural, other{{count} ä¸ªå•†å“}}",
+  "@itemCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "clearSearch": "æ¸…é™¤æœç´¢",
+  "filterItems": "ç­›é€‰å•†å“",
+  "pricesAvailable": "ä»·æ ¼å¯ç”¨",
+  "itemsUnavailable": "å•†å“ä¸å¯ç”¨",
+  "noGroceries": "æš‚æ— å¯ç”¨å•†å“",
+  "noMatchingGroceries": "æ²¡æœ‰åŒ¹é…çš„å•†å“",
+  "searchEmptyMessage": "è¯·å°è¯•å…¶ä»–æœç´¢æˆ–é‡ç½®ç­›é€‰æ¡ä»¶ã€‚",
+  "loadMore": "åŠ è½½æ›´å¤š",
+  "category": "åˆ†ç±»",
+  "locationFiltersUnavailable": "ä½ç½®ç­›é€‰æš‚æ—¶ä¸å¯ç”¨ã€‚",
+  "hasAvailablePricesTitle": "æœ‰å¯ç”¨ä»·æ ¼",
+  "hasAvailablePricesSubtitle": "ä»…æ˜¾ç¤ºæœ‰é—¨åº—å®šä»·çš„å•†å“",
+  "applyFilters": "åº”ç”¨ç­›é€‰",
+  "openShoppingList": "æ‰“å¼€ {name}",
+  "@openShoppingList": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "searchAll": "å…¨éƒ¨",
+  "searchChicken": "é¸¡è‚‰",
+  "searchMeat": "è‚‰ç±»",
+  "searchEggs": "è›‹ç±»",
+  "searchVegetables": "è”¬èœ",
+  "searchFruits": "æ°´æžœ",
+  "searchDrinks": "é¥®æ–™",
+  "searchDryGoods": "å¹²è´§",
+  "searchBaby": "å©´å„¿",
+  "searchHousehold": "å®¶å±…",
+  "plannerTitle": "è´­ç‰©è§„åˆ’",
+  "createShoppingList": "åˆ›å»ºè´­ç‰©æ¸…å•",
+  "listName": "æ¸…å•åç§°",
+  "createListShort": "åˆ›å»ºæ¸…å•",
+  "create": "åˆ›å»º",
+  "rename": "é‡å‘½å",
+  "delete": "åˆ é™¤",
+  "save": "ä¿å­˜",
+  "weeklyBasketSubtitle": "{household} â€¢ æ¯å‘¨è´­ç‰©ç¯®",
+  "@weeklyBasketSubtitle": {
+    "placeholders": {
+      "household": { "type": "String" }
+    }
+  },
+  "createListWithTotal": "åˆ›å»ºæ¸…å• â€¢ RM {total}",
+  "@createListWithTotal": {
+    "placeholders": {
+      "total": { "type": "String" }
+    }
+  },
+  "basketCreateFailed": "æ— æ³•åˆ›å»ºè´­ç‰©ç¯®ã€‚",
+  "setMonthlyBudget": "è®¾ç½®æ¯æœˆé¢„ç®—",
+  "editMonthlyBudget": "ç¼–è¾‘æ¯æœˆé¢„ç®—",
+  "budgetAmountLabel": "é‡‘é¢ï¼ˆRMï¼‰",
+  "enterPositiveAmount": "è¯·è¾“å…¥å¤§äºŽ 0 çš„ RM é‡‘é¢ã€‚",
+  "enterListName": "è¯·è¾“å…¥æ¸…å•åç§°ã€‚",
+  "renameShoppingList": "é‡å‘½åè´­ç‰©æ¸…å•",
+  "deleteShoppingListQuestion": "åˆ é™¤è´­ç‰©æ¸…å•ï¼Ÿ",
+  "deleteListConfirm": "åˆ é™¤â€œ{name}â€åŠå…¶æ‰€æœ‰å•†å“ï¼Ÿ",
+  "@deleteListConfirm": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "signInToPlan": "ç™»å½•ä»¥åˆ›å»ºè´­ç‰©æ¸…å•",
+  "plannerSignInMessage": "ä¿å­˜å•†å“ã€è·Ÿè¸ªè´­ç‰©é¢„ç®—å¹¶æ¯”è¾ƒè®¡åˆ’ä¸­çš„è´­ç‰©è¡Œç¨‹ã€‚",
+  "plannerUnavailable": "æ¸…å•ä¸å¯ç”¨",
+  "startWithBasket": "ä»Žè´­ç‰©ç¯®å¼€å§‹",
+  "reviewedWeeklyEssentials": "ç»æ ¸å®žçš„æ¯å‘¨å¿…éœ€å“ä¸ŽçœŸå®žå½“å‰ä¼°ç®—ã€‚",
+  "yourShoppingLists": "æ‚¨çš„è´­ç‰©æ¸…å•",
+  "noShoppingListsYet": "æš‚æ— è´­ç‰©æ¸…å•",
+  "startPlanningMessage": "å¼€å§‹è§„åˆ’è´­ç‰©å¹¶è·Ÿè¸ªä¼°ç®—æ€»é¢ã€‚",
+  "createYourFirstList": "åˆ›å»ºæ‚¨çš„ç¬¬ä¸€ä¸ªæ¸…å•",
+  "templateItemsCount": "{count, plural, other{{count} ä¸ªå•†å“}}",
+  "@templateItemsCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "templateUnavailableCount": " â€¢ {count} ä¸ªä¸å¯ç”¨",
+  "@templateUnavailableCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "shoppingListTitle": "è´­ç‰©æ¸…å•",
+  "myList": "æˆ‘çš„æ¸…å•",
+  "completed": "å·²å®Œæˆ",
+  "completedItemsCount": "å·²å®Œæˆ {count} é¡¹",
+  "@completedItemsCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "renameListDialog": "é‡å‘½åæ¸…å•",
+  "removeItemQuestion": "ç§»é™¤å•†å“ï¼Ÿ",
+  "removeItemConfirm": "ä»Žæ¸…å•ä¸­ç§»é™¤â€œ{name}â€ï¼Ÿ",
+  "@removeItemConfirm": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "remove": "ç§»é™¤",
+  "shoppingListNotFound": "æœªæ‰¾åˆ°è´­ç‰©æ¸…å•ã€‚",
+  "listDeletedMessage": "å®ƒå¯èƒ½å·²è¢«æ‚¨æˆ–å…¶ä»–è®¾å¤‡åˆ é™¤ã€‚",
+  "backToPlanner": "è¿”å›žæ¸…å•",
+  "couldntLoadList": "æ— æ³•åŠ è½½æ­¤è´­ç‰©æ¸…å•ã€‚",
+  "tryAgain": "é‡è¯•",
+  "addItem": "æ·»åŠ å•†å“",
+  "yourListIsEmpty": "æ‚¨çš„æ¸…å•ä¸ºç©º",
+  "emptyListMessage": "æ·»åŠ å•†å“ä»¥å¼€å§‹è§„åˆ’æ‚¨çš„è¡Œç¨‹ã€‚",
+  "everythingCompleted": "å…¨éƒ¨å®Œæˆ",
+  "noCompletedYet": "æš‚æ— å·²å®Œæˆå•†å“",
+  "completedHint": "æ‰“å¼€â€œå·²å®Œæˆâ€æŸ¥çœ‹å·²å‹¾é€‰å•†å“ã€‚",
+  "completedEmptyHint": "æ‚¨å‹¾é€‰çš„å•†å“ä¼šæ˜¾ç¤ºåœ¨è¿™é‡Œã€‚",
+  "estimatedTotal": "ä¼°ç®—æ€»é¢",
+  "noBudgetSet": "æœªè®¾ç½®æ¯æœˆé¢„ç®—",
+  "overBudget": "è¶…å‡ºé¢„ç®— RM {amount}",
+  "@overBudget": {
+    "placeholders": {
+      "amount": { "type": "String" }
+    }
+  },
+  "withinBudget": "é¢„ç®—å†… RM {amount}",
+  "@withinBudget": {
+    "placeholders": {
+      "amount": { "type": "String" }
+    }
+  },
+  "findBestPlaces": "æŸ¥æ‰¾æœ€ä½³é—¨åº—",
+  "profileGreeting": "ä½ å¥½ï¼Œ{name}ï¼",
+  "@profileGreeting": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "profileSubtitle": "æ›´èªæ˜Žåœ°æ¯”è¾ƒï¼Œçœå¾—æ›´å¤šã€‚",
+  "myProfile": "æˆ‘çš„èµ„æ–™",
+  "budgetPlanner": "é¢„ç®—è§„åˆ’",
+  "myFavourites": "æˆ‘çš„æ”¶è—",
+  "recentViews": "æœ€è¿‘æµè§ˆ",
+  "recentViewsMenu": "æœ€è¿‘æµè§ˆ",
+  "shoppingLists": "è´­ç‰©æ¸…å•",
+  "settings": "è®¾ç½®",
+  "aboutJimatmy": "å…³äºŽ JimatMY",
+  "logout": "é€€å‡ºç™»å½•",
+  "logoutQuestion": "é€€å‡ºç™»å½•ï¼Ÿ",
+  "logoutMessage": "æ‚¨ä¿å­˜çš„è´¦æˆ·æ•°æ®å°†åœ¨ä¸‹æ¬¡ç™»å½•æ—¶ç»§ç»­å¯ç”¨ã€‚",
+  "loggingOut": "æ­£åœ¨é€€å‡ºç™»å½•â€¦",
+  "openSettings": "æ‰“å¼€è®¾ç½®",
+  "changeProfilePicture": "æ›´æ¢å¤´åƒ",
+  "guestTitle": "ä¿å­˜æ‚¨çš„è´­ç‰©è®¡åˆ’",
+  "guestMessage": "ç™»å½•ä»¥å°†æ”¶è—ã€æœ€è¿‘æµè§ˆã€è´­ç‰©æ¸…å•å’Œæ¯æœˆé¢„ç®—ä¿å­˜åœ¨ä¸€èµ·ã€‚",
+  "countUnavailable": "æ•°é‡ä¸å¯ç”¨ã€‚ä¸‹æ‹‰é‡è¯•ã€‚",
+  "favourites": "æ”¶è—",
+  "forgotPassword": "å¿˜è®°å¯†ç ï¼Ÿ",
+  "forgotPasswordTitle": "å¿˜è®°å¯†ç ",
+  "forgotPasswordSubtitle": "è¯·è¾“å…¥æ‚¨æ³¨å†Œçš„ç”µå­é‚®ä»¶ï¼Œä»¥èŽ·å–å…­ä½é‡ç½®éªŒè¯ç ã€‚",
+  "registeredEmail": "æ³¨å†Œé‚®ç®±",
+  "sendResetCode": "å‘é€é‡ç½®éªŒè¯ç ",
+  "resetPasswordTitle": "é‡ç½®å¯†ç ",
+  "resetPasswordSubtitle": "è¯·è¾“å…¥å‘é€åˆ°æ‚¨é‚®ç®±çš„å…­ä½éªŒè¯ç ï¼Œå¹¶è®¾ç½®æ–°å¯†ç ã€‚",
+  "resetCode": "é‡ç½®éªŒè¯ç ",
+  "newPassword": "æ–°å¯†ç ",
+  "confirmNewPassword": "ç¡®è®¤æ–°å¯†ç ",
+  "resetPasswordButton": "é‡ç½®å¯†ç ",
+  "passwordResetSuccess": "å¯†ç å·²é‡ç½®ï¼Œè¯·ç™»å½•ã€‚",
+  "invalidResetCode": "è¯·è¾“å…¥å…­ä½éªŒè¯ç ã€‚",
+  "resetCodeGenericError": "è¯¥é‡ç½®éªŒè¯ç æ— æ•ˆæˆ–å·²è¿‡æœŸã€‚"
+}
