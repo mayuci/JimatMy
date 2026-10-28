@@ -1,6 +1,7 @@
 # JimatMY
 
 JimatMY is a university project for a Malaysian grocery price comparison mobile application.
+Presentation: https://canva.link/hvf881gcil1bh52
 
 ## Architecture
 
